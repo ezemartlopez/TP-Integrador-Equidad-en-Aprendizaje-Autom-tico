@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Este trabajo práctico grupal tiene como objetivo poner en práctica los conceptos vistos en la clase. La idea será trabajar sobre el conjunto de datos “German Credit Data”, que cuenta con información acerca de datos bancarios de personas y crear un modelo que prediga si una persona debe aprobarse un préstamo bancario.
+Este trabajo práctico grupal tiene como objetivo poner en práctica los conceptos vistos en la clase. La idea será trabajar sobre el conjunto de datos “German Credit Data”, que cuenta con información acerca de datos bancarios de personas y en base a eso crear un modelo que prediga si a una persona debe aprobarsele o no un préstamo bancario.
 
 La idea es generar un clasificador inicial, evaluarlo de manera agregada y también haciendo un analisis de equidad con especial foco en la asignación de creditos a personas de distintos géneros. Luego, se exploraran técnicas de mitigación de sesgos y se crearan nuevos modelos, los cuales se evaluarán y compararán con el modelo inicial.
 
