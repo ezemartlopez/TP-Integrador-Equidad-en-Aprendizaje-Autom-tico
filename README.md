@@ -31,7 +31,7 @@ La idea es generar un clasificador inicial, evaluarlo de manera agregada y tambi
     ¿Se ha utilizado el conjunto de datos para alguna tarea? ¿Existe un repositorio o sistema que lo utilice? Proporcionar enlaces si existen.
 
 ✅ Realizar un análisis exploratorio del conjunto de datos, Por ejemplo, explorar distribución de etiquetas, edades, géneros, etc.  
-🔲 Identificar posibles sesgos (por ejemplo, representación de género en préstamos aprobados).
+✅ Identificar posibles sesgos (por ejemplo, representación de género en préstamos aprobados).
 
 ---
 
