@@ -37,15 +37,15 @@ La idea es generar un clasificador inicial, evaluarlo de manera agregada y tambi
 
 ### 2) Creación de un modelo inicial
 
-🔲 Elegir un modelo clásico de clasificación (ejemplo: Random Forest o Regresión Logística).
+✅ Elegir un modelo clásico de clasificación (ejemplo: Random Forest o Regresión Logística).
 
-🔲 Entrenar y evaluar el modelo usando métricas clásicas: precisión, recall, accuracy, f1-score.
+✅ Entrenar y evaluar el modelo usando métricas clásicas: precisión, recall, accuracy, f1-score.
 
-🔲 Crear la matriz de confusión.
+✅ Crear la matriz de confusión.
 
-🔲 Interpretar los resultados obtenidos.
+✅ Interpretar los resultados obtenidos.
 
-🔲 Justificar cuál error es más grave para el banco (maximizar personas que paguen el préstamo).
+✅ Justificar cuál error es más grave para el banco (maximizar personas que paguen el préstamo).
 
 ---
 
