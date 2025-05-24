@@ -43,23 +43,23 @@ La idea es generar un clasificador inicial, evaluarlo de manera agregada y tambi
 
 ✅ Crear la matriz de confusión.
 
-🔲 Interpretar los resultados obtenidos.
+✅ Interpretar los resultados obtenidos.
 
-🔲 Justificar cuál error es más grave para el banco (maximizar personas que paguen el préstamo).
+✅ Justificar cuál error es más grave para el banco (maximizar personas que paguen el préstamo).
 
 ---
 
 ### 3) Evaluación de equidad del modelo inicial
 
-🔲 Describir cómo se interpretan en este contexto los criterios de fairness vistos en clase:  
+✅ Describir cómo se interpretan en este contexto los criterios de fairness vistos en clase:  
   - Statistical Parity  
   - Equalized Odds  
   - Equal Opportunity  
   - Predictive Parity
 
-🔲 Analizar si el modelo inicial es fair para cada definición, usando la medida de disparidad y un umbral definido.
+✅ Analizar si el modelo inicial es fair para cada definición, usando la medida de disparidad y un umbral definido.
 
-🔲 Justificar cuál criterio de fairness es más relevante para el banco.
+✅ Justificar cuál criterio de fairness es más relevante para el banco.
 
 ---
 
