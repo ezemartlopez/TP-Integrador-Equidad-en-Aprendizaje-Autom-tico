@@ -51,15 +51,15 @@ La idea es generar un clasificador inicial, evaluarlo de manera agregada y tambi
 
 ### 3) Evaluación de equidad del modelo inicial
 
-🔲 Describir cómo se interpretan en este contexto los criterios de fairness vistos en clase:  
+✅ Describir cómo se interpretan en este contexto los criterios de fairness vistos en clase:  
   - Statistical Parity  
   - Equalized Odds  
   - Equal Opportunity  
   - Predictive Parity
 
-🔲 Analizar si el modelo inicial es fair para cada definición, usando la medida de disparidad y un umbral definido.
+✅ Analizar si el modelo inicial es fair para cada definición, usando la medida de disparidad y un umbral definido.
 
-🔲 Justificar cuál criterio de fairness es más relevante para el banco.
+✅ Justificar cuál criterio de fairness es más relevante para el banco.
 
 ---
 
