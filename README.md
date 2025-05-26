@@ -31,35 +31,35 @@ La idea es generar un clasificador inicial, evaluarlo de manera agregada y tambi
     ¿Se ha utilizado el conjunto de datos para alguna tarea? ¿Existe un repositorio o sistema que lo utilice? Proporcionar enlaces si existen.
 
 ✅ Realizar un análisis exploratorio del conjunto de datos, Por ejemplo, explorar distribución de etiquetas, edades, géneros, etc.  
-🔲 Identificar posibles sesgos (por ejemplo, representación de género en préstamos aprobados).
+✅ Identificar posibles sesgos (por ejemplo, representación de género en préstamos aprobados).
 
 ---
 
 ### 2) Creación de un modelo inicial
 
-🔲 Elegir un modelo clásico de clasificación (ejemplo: Random Forest o Regresión Logística).
+✅ Elegir un modelo clásico de clasificación (ejemplo: Random Forest o Regresión Logística).
 
-🔲 Entrenar y evaluar el modelo usando métricas clásicas: precisión, recall, accuracy, f1-score.
+✅ Entrenar y evaluar el modelo usando métricas clásicas: precisión, recall, accuracy, f1-score.
 
-🔲 Crear la matriz de confusión.
+✅ Crear la matriz de confusión.
 
-🔲 Interpretar los resultados obtenidos.
+✅ Interpretar los resultados obtenidos.
 
-🔲 Justificar cuál error es más grave para el banco (maximizar personas que paguen el préstamo).
+✅ Justificar cuál error es más grave para el banco (maximizar personas que paguen el préstamo).
 
 ---
 
 ### 3) Evaluación de equidad del modelo inicial
 
-🔲 Describir cómo se interpretan en este contexto los criterios de fairness vistos en clase:  
+✅ Describir cómo se interpretan en este contexto los criterios de fairness vistos en clase:  
   - Statistical Parity  
   - Equalized Odds  
   - Equal Opportunity  
   - Predictive Parity
 
-🔲 Analizar si el modelo inicial es fair para cada definición, usando la medida de disparidad y un umbral definido.
+✅ Analizar si el modelo inicial es fair para cada definición, usando la medida de disparidad y un umbral definido.
 
-🔲 Justificar cuál criterio de fairness es más relevante para el banco.
+✅ Justificar cuál criterio de fairness es más relevante para el banco.
 
 ---
 
