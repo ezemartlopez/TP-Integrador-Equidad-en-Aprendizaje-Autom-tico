@@ -65,19 +65,19 @@ La idea es generar un clasificador inicial, evaluarlo de manera agregada y tambi
 
 ### 4) Mitigación de sesgos
 
-🔲 Seleccionar al menos 2 técnicas de mitigación de sesgos vistas en clase.
+✅ Seleccionar al menos 2 técnicas de mitigación de sesgos vistas en clase.
 
-🔲 Entrenar el modelo ajustado con dichas técnicas.
+✅ Entrenar el modelo ajustado con dichas técnicas.
 
 🔲 Evaluar la performance del modelo ajustado con las métricas clásicas y matriz de confusión.
 
-🔲 Evaluar la equidad del modelo ajustado usando las mismas métricas y criterios del paso 3.
+✅ Evaluar la equidad del modelo ajustado usando las mismas métricas y criterios del paso 3.
 
 ---
 
 ### 5) Conclusiones
 
-🔲 Comparar resultados entre el modelo original y el ajustado.
+✅ Comparar resultados entre el modelo original y el ajustado.
 
 🔲 Discutir mejoras en fairness y métricas de performance.
 
