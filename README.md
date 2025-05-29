@@ -69,7 +69,7 @@ La idea es generar un clasificador inicial, evaluarlo de manera agregada y tambi
 
 ✅ Entrenar el modelo ajustado con dichas técnicas.
 
-🔲 Evaluar la performance del modelo ajustado con las métricas clásicas y matriz de confusión.
+✅ Evaluar la performance del modelo ajustado con las métricas clásicas y matriz de confusión.
 
 ✅ Evaluar la equidad del modelo ajustado usando las mismas métricas y criterios del paso 3.
 
@@ -79,9 +79,9 @@ La idea es generar un clasificador inicial, evaluarlo de manera agregada y tambi
 
 ✅ Comparar resultados entre el modelo original y el ajustado.
 
-🔲 Discutir mejoras en fairness y métricas de performance.
+✅ Discutir mejoras en fairness y métricas de performance.
 
-🔲 Reflexionar sobre el impacto de estos cambios en aplicaciones reales y la importancia de la equidad en machine learning.
+✅ Reflexionar sobre el impacto de estos cambios en aplicaciones reales y la importancia de la equidad en machine learning.
 
 ---
 
